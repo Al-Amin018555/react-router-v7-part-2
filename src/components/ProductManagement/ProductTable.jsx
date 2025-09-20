@@ -1,8 +1,8 @@
 const ProductTable = ({ products }) => {
-    console.log(products)
+   
     return (
         <div>
-            <h2>products: {products.length}</h2>
+            <h2>Products: {products.length}</h2>
 
             <table>
                 <thead>
